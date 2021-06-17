@@ -7,7 +7,8 @@ public class Main {
 		// TODO Auto-generated method stub
             ClassPathXmlApplicationContext cp = new  ClassPathXmlApplicationContext("Spring.xml");
             Student s =(Student) cp.getBean("newstudent");
-            System.out.println("pp");
+           // System.out.println("pp");
+		System.out.println("hii this is git hub");
 	}
 
 }
