@@ -8,7 +8,7 @@
 
 
 
-# Objective of this project
+# *Objective of this project*
 
 - the objective of this project is to develop a general purpose e-commerce  
 store where any kind of product can be bought from the comfort of home through
@@ -20,7 +20,7 @@ At checkout time , the items in the shopping cart will be presented as an order.
 
 
 
- # Project Description
+ # *Project Description*
 
 - any member can register and view available products.
 - only registered member can purchase multiple products regardless of quantity.
@@ -28,7 +28,7 @@ At checkout time , the items in the shopping cart will be presented as an order.
 - Admin is the head to add the categories and product in the database.
  
 
- # There are Four Roles available
+ # *There are Four Roles available here*
 
 1) visitor 
 - Visitor can view , and search available Products.
@@ -44,7 +44,7 @@ At checkout time , the items in the shopping cart will be presented as an order.
 - Admin can add products, edit products information, and add product.    
    
 
-# Design and Development program for project
+# *Design and Development program for project*
 
 
 - Html5
