@@ -1,0 +1,12 @@
+com\example\Dao\ProductDao.class
+com\example\Dao\UserDao.class
+com\example\servlet\LoginServlet.class
+com\example\entities\Customer.class
+com\example\servlet\OrderServlet.class
+com\example\servlet\ProductOperationServlet.class
+com\example\servlet\LogoutServlet.class
+com\example\entities\Product.class
+com\example\entities\Categories.class
+com\example\helper\Helper.class
+com\example\Dao\CategoryDao.class
+com\example\servlet\RegisterServlet.class

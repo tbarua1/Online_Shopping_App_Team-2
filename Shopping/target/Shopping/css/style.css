@@ -1,0 +1,38 @@
+.custom-bg{
+       background:lightgreen!important;
+}
+.text-font-teko-500-14px {
+  font-size: 10px !important;
+  font-weight: 500 !important;
+  font-family: "Teko", sans-serif !important;
+}
+.text-font-sans-serif-500-20px {
+  font-size: 20px !important;
+  font-weight: 500 !important;
+  font-family: sans-serif !important;
+}
+.footer-container {
+    background-color: lightgreen!important;
+
+}
+.copyright_container {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+.branch-p {
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-style: italic;
+}
+
+.footer-content-body{
+    // padding-left: 20px;
+    // padding-right: 20px;
+    padding-top: 15px;
+}
+.admin .card{
+    border: solid 2px lightgreen;
+}
+.admin .card :hover{
+    background: #e2e2e2;
+    cursor: pointer;
+}
+
