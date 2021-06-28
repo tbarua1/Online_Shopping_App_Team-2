@@ -45,9 +45,9 @@ At checkout time , the items in the shopping cart will be presented as an order.
 
 - Html5
 - CSS3
-- java
+- javaScript
 - BootStrap (Grid & Frameworks)
-- for DataBase we use MySQL
+- for DataBase we use MySQL connected with SQLYOG
 - Java
 - Servlets & Jsp
 - Hibernate  
