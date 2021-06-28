@@ -8,7 +8,7 @@ Objective of this project --
 -- the objective of this project is to develop a general purpose e-commerce  
 store where any kind of product can be bought from the comfort of home through
 the internet.
-                 An online store is a  virtual store on the internet where customers can 
+             An online store is a  virtual store on the internet where customers can 
 browse the catalog and select products of interest, the selected items collected in a shopping cart.
 At checkout time , the items in the shopping cart will be presented as an order.
 
@@ -34,9 +34,10 @@ Design and Development program for project are --
 
 -- Html5
 -- CSS3
---  java
+--  javaScript
 -- BootStrap (Grid & Frameworks)
 -- for DataBase we use MySQL
+-- intelii
 -- Java
 -- Servlets & Jsp
 -- Hibernate  
