@@ -14,11 +14,14 @@ At checkout time , the items in the shopping cart will be presented as an order.
 - any member can register and view available products.
 - only registered member can purchase multiple products regardless of quantity.
 - Contact us page is available to contact Admin for Queries.
+ 
+ 
+ 
  There are Four Roles available:
-           - visitor
-            - User
-           -  Operator
-            - Admin
+- visitor
+- User
+-  Operator
+- Admin
 --Visitor can view , and search available Products.
 --User can view and purchase Products.
 --Operator can excess add option and can view everything of admin panel and also users 
