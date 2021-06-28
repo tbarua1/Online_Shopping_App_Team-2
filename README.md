@@ -1,6 +1,5 @@
 # Online_Shopping_App_Team-2
-# This is an <h1> tag
-**************************************  Team Memeber     ******************
+
  # Team memeber
 - NEERAJ
 - MEGHNA
@@ -8,7 +7,8 @@
 - RAHUL
 
 
-**************************************  Objective of this project    ******************
+
+#Objective of this project
 
 - the objective of this project is to develop a general purpose e-commerce  
 store where any kind of product can be bought from the comfort of home through
@@ -26,8 +26,8 @@ At checkout time , the items in the shopping cart will be presented as an order.
 - Contact us page is available to contact Admin for Queries.
 - Admin is the head to add the categories and product in the database.
  
- 
- **************************************  There are Four Roles available   ******************
+
+ #There are Four Roles available
 
 1) visitor 
 - Visitor can view , and search available Products.
@@ -42,7 +42,8 @@ At checkout time , the items in the shopping cart will be presented as an order.
 - An Admin has some extra privilage including all privilage of visitor and User.
 - Admin can add products, edit products information, and add product.    
    
-************************************** Design and Development program for project   ******************
+
+# Design and Development program for project
 
 
 - Html5
