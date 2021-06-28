@@ -1,9 +1,9 @@
 # Online_Shopping_App_Team-2
 # *Team memeber*
-- NEERAJ
-- MEGHNA
-- FAHIMA
-- RAHUL
+- NEERAJ KUMAR
+- MEGHNA KUMARI
+- FAHIMA 
+- RAHUL CHATTERJEE
 
 
 
@@ -55,6 +55,23 @@ At checkout time , the items in the shopping cart will be presented as an order.
 - Servlets & Jsp
 - Hibernate  
 
+# *Home_Page*
+
+![](Screenshot/homepage%20(2).PNG)
+
+# *Register_Page*
+![](Screenshot/registerpage%20(2).PNG)
+
+# *Login_Page*
+![](Screenshot/loginpage%20(2).PNG)
+# *Admin_Page*
+![](Screenshot/adminpage%20(2).PNG)
+
+# *AddCategory_Page*
+![](Screenshot/addcategory%20(2).PNG)
+# *AddProduct_Page*
+![](Screenshot/addproduct%20(2).PNG)
+# *checkOut_Page*
+![](Screenshot/orderpage%20(2).PNG)
 
 
-![](Screenshot/ images.png)
